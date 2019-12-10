@@ -4,6 +4,8 @@
 /metadata/
 /cert/
 
+/modules/*/enable
+
 !config/.gitkeep
 !metadata/.gitkeep
 
